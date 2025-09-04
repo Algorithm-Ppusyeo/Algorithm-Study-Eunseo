@@ -1,7 +1,10 @@
 # **Eunseo's Algorithm Study**
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 
 >이 레포는 **Algorithm-Ppusyeo 스터디**의 개인 PS 저장소입니다.<br>
-주 언어: Java, 보조 언어: Python
+
 
 ---
 
